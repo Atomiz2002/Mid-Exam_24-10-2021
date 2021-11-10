@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01._Cooking_Masterclass", "_01._Cooking_Masterclass\_01._Cooking_Masterclass.csproj", "{EDD31003-E92B-4B3B-AE4B-6300DEE531A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01. Cooking_Masterclass", "_01. Cooking_Masterclass\_01. Cooking_Masterclass.csproj", "{EDD31003-E92B-4B3B-AE4B-6300DEE531A3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02. Friend List Maintenance", "_02. Friend List Maintenance\_02. Friend List Maintenance.csproj", "{004C0430-5FDE-442E-9552-C46A154A71C0}"
 EndProject
