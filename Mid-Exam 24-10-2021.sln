@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01._Cooking_Masterclass", "_01._Cooking_Masterclass\_01._Cooking_Masterclass.csproj", "{EDD31003-E92B-4B3B-AE4B-6300DEE531A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02. Friend List Maintenance", "_02. Friend List Maintenance\_02. Friend List Maintenance.csproj", "{004C0430-5FDE-442E-9552-C46A154A71C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03. Chat Logger", "_03. Chat Logger\_03. Chat Logger.csproj", "{E5F3AB78-3554-4638-B568-1C60BA41165C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDD31003-E92B-4B3B-AE4B-6300DEE531A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD31003-E92B-4B3B-AE4B-6300DEE531A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD31003-E92B-4B3B-AE4B-6300DEE531A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD31003-E92B-4B3B-AE4B-6300DEE531A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{004C0430-5FDE-442E-9552-C46A154A71C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{004C0430-5FDE-442E-9552-C46A154A71C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{004C0430-5FDE-442E-9552-C46A154A71C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{004C0430-5FDE-442E-9552-C46A154A71C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5F3AB78-3554-4638-B568-1C60BA41165C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F3AB78-3554-4638-B568-1C60BA41165C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F3AB78-3554-4638-B568-1C60BA41165C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F3AB78-3554-4638-B568-1C60BA41165C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
